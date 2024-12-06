@@ -1,0 +1,4 @@
+baseURL = "http://547group3project.com/"
+languageCode = "en-us"
+title = "CISA Vulnerabilities"
+theme = "ananke"
